@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cee4b6c8d6aa254020bedd8d43a40298834641382526dca90748fba645fdcc3d
-size 51
+[lfs]
+	url = http://ADMIN:PASSWORD@localhost:9999/

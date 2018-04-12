@@ -42,7 +42,7 @@ graph:
       - [fitted_model_1, predictions_1, report_1]
       - [fitted_model_2, predictions_2, report_2]
       - [fitted_model_3, predictions_3, report_3]
-    operation: logistic_model
+    operation: svm_model
     arguments:
       target: Species
 
